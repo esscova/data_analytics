@@ -1,4 +1,14 @@
-# Projetos
+# Descubra o Poder da Análise de Dados
+![](https://images.datacamp.com/image/upload/v1688736364/image_d844eb0462.png)
+
+A análise de dados é mais do que apenas um processo técnico; é uma ferramenta poderosa que transforma dados brutos em informações valiosas para decisões estratégicas. Com ela, é possível entender padrões, prever tendências e melhorar a eficiência — fatores essenciais para qualquer organização moderna.
+
+Imagine uma grande empresa de e-commerce que, através da análise de dados, compreende o comportamento e as preferências de seus clientes. Com essas descobertas, pode personalizar experiências, prever vendas futuras e aprimorar campanhas de marketing. O resultado? Crescimento nos negócios e clientes mais satisfeitos.
+
+## Estrutura do repositório
+
+
+## Conteúdo
 - [Análise exploratória de dados do Clima com R](./notebooks/eda-tempo[R].ipynb) : Este notebook, é um exercício para prática em análise exploratória de dados com a linguagem R, tendo como objetivo tratar os dados para que estejam de acordo com as regras pré-estabelecidas de negócio.
 - [Análise exploratória de dados Churn com R](./notebooks/eda-churn[R].ipynb) : Este projeto utiliza a linguagem R para realizar uma Análise Exploratória de Dados (EDA) em um conjunto de dados de **Churn** de clientes. O objetivo principal é entender as características, identificar padrões, e tratar inconsistências nos dados, preparando-os para futuras análises e modelagens.
 - [Estatística descritiva com Python](./notebooks/estatistica-python.ipynb) : Sabia que uma simples tabela de frequência pode revelar insights surpreendentes sobre seus dados? Descubra como a análise estatística descritiva, feita com Python e Pandas, pode transformar a maneira como você entende suas informações.
