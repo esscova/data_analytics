@@ -6,7 +6,19 @@ A análise de dados é mais do que apenas um processo técnico; é uma ferrament
 Imagine uma grande empresa de e-commerce que, através da análise de dados, compreende o comportamento e as preferências de seus clientes. Com essas descobertas, pode personalizar experiências, prever vendas futuras e aprimorar campanhas de marketing. O resultado? Crescimento nos negócios e clientes mais satisfeitos.
 
 ## Estrutura do repositório
-
+```plainText
+.
+├── datasets                
+│   └── # datasets utilizados
+├── notebooks
+│   └── # notebooks com pesquisas ou análises
+├── scripts
+│   └── # scripts de R ou Python com pesquisas ou análises
+├──study_materials
+|   └── # materiais diversos de estudo
+├── README.md    
+└── LICENSE
+```
 
 ## Conteúdo
 - [Análise exploratória de dados do Clima com R](./notebooks/eda-tempo[R].ipynb) : Este notebook, é um exercício para prática em análise exploratória de dados com a linguagem R, tendo como objetivo tratar os dados para que estejam de acordo com as regras pré-estabelecidas de negócio.
