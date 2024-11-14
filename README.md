@@ -21,6 +21,7 @@ Imagine uma grande empresa de e-commerce que, através da análise de dados, com
 ```
 
 ## Conteúdo
+- [Análise e tratamento de dados Churn com Python](./notebooks/eda-churn[python].ipynb) : Este notebook realiza a Análise Exploratória de Dados (EDA) em um conjunto de dados Churn, utilizando Python, Pandas e Seaborn.
 - [Análise exploratória de dados do Clima com R](./notebooks/eda-tempo[R].ipynb) : Este notebook, é um exercício para prática em análise exploratória de dados com a linguagem R, tendo como objetivo tratar os dados para que estejam de acordo com as regras pré-estabelecidas de negócio.
 - [Análise exploratória de dados Churn com R](./notebooks/eda-churn[R].ipynb) : Este projeto utiliza a linguagem R para realizar uma Análise Exploratória de Dados (EDA) em um conjunto de dados de **Churn** de clientes. O objetivo principal é entender as características, identificar padrões, e tratar inconsistências nos dados, preparando-os para futuras análises e modelagens.
 - [Estatística descritiva com Python](./notebooks/estatistica-python.ipynb) : Sabia que uma simples tabela de frequência pode revelar insights surpreendentes sobre seus dados? Descubra como a análise estatística descritiva, feita com Python e Pandas, pode transformar a maneira como você entende suas informações.
