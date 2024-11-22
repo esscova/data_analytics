@@ -21,7 +21,8 @@ Imagine uma grande empresa de e-commerce que, através da análise de dados, com
 ```
 
 ## Conteúdo
-- [Práticando visualização de dados com R](./notebooks/pratica-graficos[R].ipynb): Uma guia prática inicial para plots utilizando o R.
+- [Visualizando dados com R - II](./notebooks/pratica-graficos-II-[R].ipynb): Continuação do material anterior, praticando graficos como boxplot, barras e setores.
+- [Visualizando dados com R](./notebooks/pratica-graficos[R].ipynb): Uma guia prática inicial para plots utilizando o R.
 - [Análise exploratória de dados do Clima com Python](./notebooks/eda-tempo[python].ipynb) : Este notebook, é um exercício para prática em análise exploratória de dados com a linguagem Python, tendo como objetivo tratar os dados para que estejam de acordo com as regras pré-estabelecidas de negócio.
 - [Análise e tratamento de dados Churn com Python](./notebooks/eda-churn[python].ipynb) : Este notebook realiza a Análise Exploratória de Dados (EDA) em um conjunto de dados Churn, utilizando Python, Pandas e Seaborn.
 - [Análise exploratória de dados do Clima com R](./notebooks/eda-tempo[R].ipynb) : Este notebook, é um exercício para prática em análise exploratória de dados com a linguagem R, tendo como objetivo tratar os dados para que estejam de acordo com as regras pré-estabelecidas de negócio.
