@@ -24,7 +24,7 @@ hist(trees$Height)
 
 ```
 
-![image.png](.imgs/image.png)
+![image.png](.imgs/graficos_R/image.png)
 
 **Explicação**: O histograma mostra em quais intervalos de altura há maior ou menor frequência. Por exemplo, a maioria das árvores pode ter entre 70 e 80 unidades de altura.
 
@@ -40,7 +40,7 @@ hist(trees$Height,
 
 ```
 
-![image.png](.imgs/image%201.png)
+![image.png](.imgs/graficos_R/image%201.png)
 
 **Personalizações**:
 
@@ -62,7 +62,7 @@ hist(trees$Height,
 
 ```
 
-![image.png](.imgs/image%202.png)
+![image.png](.imgs/graficos_R/image%202.png)
 
 **Explicação**:
 
@@ -87,7 +87,7 @@ plot(densidade,
 
 ```
 
-![image.png](.imgs/image%203.png)
+![image.png](.imgs/graficos_R/image%203.png)
 
 **Explicação**:
 
@@ -105,7 +105,7 @@ plot(densidade, col = "red", lwd = 2, main = "Histograma com Densidade")
 
 ```
 
-![image.png](.imgs/image%204.png)
+![image.png](.imgs/graficos_R/image%204.png)
 
 **Explicação**:
 
@@ -129,7 +129,7 @@ plot(trees$Girth, trees$Volume,
 
 ```
 
-![image.png](.imgs/image%205.png)
+![image.png](.imgs/graficos_R/image%205.png)
 
 **Explicação**:
 
@@ -148,7 +148,7 @@ plot(trees$Girth, trees$Volume,
 
 ```
 
-![image.png](.imgs/image%206.png)
+![image.png](.imgs/graficos_R/image%206.png)
 
 **Personalizações**:
 
@@ -167,7 +167,7 @@ plot(jitter(trees$Girth), trees$Volume,
 
 ```
 
-![image.png](.imgs/image%207.png)
+![image.png](.imgs/graficos_R/image%207.png)
 
 **Explicação**:
 
@@ -189,7 +189,7 @@ plot(CO2$conc, CO2$uptake,
      main = "Dispersão: Concentração vs Absorção de CO2")
 ```
 
-![image.png](.imgs/image%208.png)
+![image.png](.imgs/graficos_R/image%208.png)
 
 **Explicação**:
 
@@ -206,7 +206,7 @@ legend("bottomright",
 
 ```
 
-![image.png](.imgs/image%209.png)
+![image.png](.imgs/graficos_R/image%209.png)
 
 **Explicação**:
 
@@ -245,7 +245,7 @@ close.screen(all = TRUE)
 
 ```
 
-![image.png](.imgs/image%2010.png)
+![image.png](.imgs/graficos_R/image%2010.png)
 
 **Explicação**:
 
