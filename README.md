@@ -14,7 +14,7 @@ Imagine uma grande empresa de e-commerce que, através da análise de dados, com
 │   └── # notebooks com pesquisas ou análises
 ├── scripts
 │   └── # scripts de R ou Python com pesquisas ou análises
-├──study_materials
+├── materiais de estudo
 |   └── # materiais diversos de estudo
 ├── README.md    
 └── LICENSE
