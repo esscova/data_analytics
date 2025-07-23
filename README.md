@@ -5,3 +5,5 @@ A análise de dados não é apenas um processo técnico; é uma ferramenta poder
 
 Este repositório demonstra como aplicar essas técnicas, fornecendo exemplos práticos e recursos para impulsionar o sucesso nos negócios.
 
+- [Análises](./analises)
+    * [001 - Distribuições de probalilidades](./analises/001)
