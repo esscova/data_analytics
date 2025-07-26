@@ -5,5 +5,15 @@ A análise de dados não é apenas um processo técnico; é uma ferramenta poder
 
 Este repositório demonstra como aplicar essas técnicas, fornecendo exemplos práticos e recursos para impulsionar o sucesso nos negócios.
 
-- [Análises](./analises)
-    * [001 - Distribuições de probalilidades](./analises/001)
+## [Análises](./analises)
+* [001 - Distribuições de probalilidades](./analises/001)
+* [002 - Limpeza e Tratamento de dados com R](./analises/002)
+* [003 - Análise Exploratória: Taxa de Rotatividade ](./analises/003)
+* [004 - Analisando Dados Climáticos com R](./analises/004)
+* [005 - Analisando Dados Climáticos com Python](./analises/005)
+* [006 - Estatística e Python: Descobrindo Insights de Gorjetas](./analises/006)
+* [007 - Exercício: Análise do Preço da Gasolina no Brasil](./analises/007)
+* [008 - Exercício: Análise da Obesidade Mundial](./analises/008)
+* [009 - Exercício: Análise do PIB per Capita Mundial](;/analises/009)
+* [010 - Teste de Hipótese: Uma drogaria afirma que a média do tempo de entrega é menor que 38 minutos.](./analises/010)
+* [011 - Análise de Cidadãos alistados no Serviço Militar em 2024](./analises/011)
