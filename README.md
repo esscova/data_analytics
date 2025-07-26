@@ -17,3 +17,4 @@ Este repositório demonstra como aplicar essas técnicas, fornecendo exemplos pr
 * [009 - Exercício: Análise do PIB per Capita Mundial](;/analises/009)
 * [010 - Teste de Hipótese: Uma drogaria afirma que a média do tempo de entrega é menor que 38 minutos.](./analises/010)
 * [011 - Análise de Cidadãos alistados no Serviço Militar em 2024](./analises/011)
+* [012 - Análise de Mercado do Airbnb no Rio de Janeiro](./analises/012)
